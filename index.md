@@ -1,4 +1,4 @@
-**Media Studies 200: An Introduction to Media Studies (DRAFT)**    
+**Media Studies 200: An Introduction to Media Studies (DRAFT)**  
 Intended for 63 undergraduate students     
 Spring 2024 at the University of Victoria  
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  
@@ -127,6 +127,201 @@ I will give you time during class to draft responses to prompts in your workshee
 Here's the schedule for the term. It's subject to change. In fact, I'm 97.56% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
 
 *All materials are available via Brightspace. Please study them prior to the date they're assigned.* This way, we can make the most of our time together. 
+
+If you miss a class session, or you simply want a review, then I recommend checking Brightspace to view the slide deck for that session and touching base with a peer to see if they're willing to share their notes for the day. 
+
+## M Jan 8: Hello! 
+
+We'll introduce ourselves, I'll provide an overview of the course, and we'll briefly discuss the relationship between media and mediation.  
+
+## Th Jan 11: The Content Industry 
+
+Before class, please: 
+
+1. Read the course outline, including the schedule and policies.
+2. Read the handout titled, "The Content Industry." 
+3. Read the prompt for [Worksheet 1](https://jentery.github.io/mdia200v2/worksheet1.html). 
+
+## M Jan 15: Acts and Senses of Communication
+
+Before class, please: 
+
+1. Read the handouts titled, "Acts of Communication" and "Senses of Communication." 
+2. Email me any questions or concerns you have about Worksheet 1. 
+
+## Th Jan 18: Means, Levels, and Forms of Communication 
+
+Before class, please: 
+
+1. Read the handouts titled, "Means of Communication," "Levels of Communication," and "Forms of Communication." 
+2. Email me if you've having any trouble accessing the slide decks for class sessions. 
+
+*Note that Sunday, January 21st is the last day for a 100% reduction of second term fees for standard courses.*
+
+## M Jan 22: Models of Communication 
+
+Before class, please: 
+
+1. Read the handout titled, "Models of Communication." 
+2. Email me any questions or concerns you have about how I'll assess your response to Worksheet 1. 
+
+*Note that Wednesday, January 24th is the last day for adding courses that begin in the second term.*
+
+## Th Jan 25: Semiotic Codes and Miscommunication 
+
+Before class, please: 
+
+1. Read the handouts titled, "Semiotic Codes" and "Miscommunication." 
+2. Read the prompt for [Worksheet 2](https://jentery.github.io/mdia200v2/worksheet2.html). 
+3. Note that today is the last session covered by Worksheet 1, which is due by Thursday, February 1st at 10am.
+
+*Also note that Wednesday, January 31st is the last day for paying second term fees without penalty.*
+
+## M Jan 29: Images 
+
+Before class, please: 
+
+1. Read Adrian Tomine's "Translated, From the Japanese" (PDF in Brightspace) and the handout for it. Content warning: conflict between parents, bad dad, and themes of assimilation and leaving home.
+2. Read the handout titled, "Images." 
+3. Email me any questions or concerns you have about Worksheet 2. 
+
+## Th Feb 1: Text 
+
+Before class, please: 
+
+1. Submit your response to Worksheet 1. 
+2. Watch Young-Hae Chang Heavy Industries' [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) and read the handout for it. Content warning: flashing text and images; heteronormative romantic or sexual advances.
+3. Read the handout titled, "Text." 
+
+## M Feb 5: Audio 
+
+Before class, please: 
+
+1. Listen to Episode 1, Season 1 of Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Night Vale's [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) and read the handout for it. Content warning: bugs (including bug abuse), gaslighting, stalking, medical setting, and themes related to mental health and pathologization.
+2. Read the handout titled, "Audio." 
+
+## Th Feb 8: Video 
+
+Before class, please: 
+
+1. Watch Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett's [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) and read the handout for it. Content warning: settler colonialism (including physical and psychological violence), surveillance, and some horror motifs (especially in the lighting and music).
+2. Read the handout titled, "Video." 
+
+*Note that Sunday, February 11th is the last day for a 50% reduction of tuition fees for standard courses.*
+
+## M Feb 12: Interfaces 
+
+Before class, please: 
+
+1. Play Momo Pixel's [*Hair Nah*](https://www.momopixel.com/hair-nah) and read the handout for it. Content warning (as per Momo Pixel): "micro-aggression of assumed authority and ownership of black bodies."
+2. Read the handout titled, "Interfaces." 
+3. Note that today is the last session covered by Worksheet 2, which is due by Thursday, February 15th at 10am.
+
+## Th Feb 15: Uses and Effects 
+
+Before class, please: 
+
+1. Submit your response to Worksheet 2.
+2. Read the handout titled, "Uses and Effects."  
+3. Read the prompt for [Worksheet 3](https://jentery.github.io/mdia200v2/worksheet3.html). 
+
+## M Feb 19 and Th Feb 22: Reading Break 
+
+Monday, February 19th through Friday, February 23th is Reading Break for all faculties.
+
+## M Feb 26: Ownership, Amplification, and Accountability 
+
+Before class, please: 
+
+1. Read the handouts titled, "Ownership Effects," "Two-Step Flow," and "Media Accountability." 
+2. Email me any questions or concerns you have about Worksheet 3.
+
+## Th Feb 29: Representation and Intersectionality 
+
+Before class, please: 
+
+1. Read the handouts titled, "Representation" and "Intersectionality." 
+2. Read the prompt for the [Portfolio](https://jentery.github.io/mdia200v2/portfolio.html). 
+
+*Note that today is the last day for withdrawing from full-year and second-term courses without penalty of failure.*
+
+## M Mar 4: Access and Trust 
+
+Before class, please: 
+
+1. Read the handouts titled, "Access" and "Trust." 
+2. Select a Twitch streamer to watch for Thursday's meeting. 
+3. Read the prompt for [Worksheet 4](https://jentery.github.io/mdia200v2/worksheet4.html). 
+
+## Th Mar 7: Drama and Impression
+
+Before class, please: 
+
+1. Watch a Twitch streamer for 30 minutes at least and take notes, including screen caps.
+2. Read the handouts titled, "Media Dramaturgy" and "Impressions Management." 
+3. Note that today is the last session covered by Worksheet 3, which is due by Thursday, March 14th at 10am.
+
+## M Mar 11: Narrative and Storytelling 
+
+Before class, please: 
+
+1. Watch or play Origame Digital and Naphtali Faulkner's [*Umurangi Generation*](https://www.umurangigeneration.com/) for 60 minutes at least. 
+2. Read the handouts titled, "Linear Narratives," "Nonlinear Narratives," and "Emergent Narratives." 
+
+## Th Mar 14: Play and Procedure 
+
+Before class, please: 
+
+1. Submit your response to Worksheet 3.
+2. Read the handouts titled, "Play" and "Procedure." 
+3. Email me any questions or concerns you have about Worksheet 4 or the Portfolio. 
+
+## M Mar 18: Discourse and Persuasion 
+
+Before class, please: 
+
+1. Read Steph Kwetásel'wet Wood's ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/). 
+2. Read the handouts titled, "Discourse" and "Persuasion." 
+
+## Th Mar 21: Affect and Experience 
+
+Before class, please: 
+
+1. Review the primary sources we studied this term and do your best to recall your experiences of them. 
+2. Read the handouts titled, "Affect" and "Experience Design." 
+
+## M Mar 25: Platforms and Preservation 
+
+Before class, please: 
+
+1. Listen to Erin Anderson's ["Being Siri"](https://www.kcrw.com/culture/shows/unfictional/you-want-a-piece-of-me/being-siri).
+2. Read the handout titled, "Preservation." 
+3. Note that today is the last session covered by Worksheet 4, which is due by Thursday, April 4th at 10am. 
+
+## Th Mar 28: Review 
+
+You don't need to do anything to prepare for today's meeting. 
+
+*Note that UVic is closed on Friday, March 29th for Good Friday.* 
+
+## M April 1: No Class
+
+UVic is closed on Monday, April 1st for Easter Monday.
+
+## Th Apr 4: Workshop Your Portfolio 
+
+Before class, please: 
+
+1. Submit your response to Worksheet 4. 
+2. Gather material for your Portfolio, which you'll workshop during class. 
+
+## M Apr 8: Last Class!
+
+We'll recap the course and complete course experience surveys. 
+
+## Th Apr 18: Portfolio 
+
+Please submit your portfolio by 10am today. I hope you've a wonderful summer! 
 
 # Policies 
 
