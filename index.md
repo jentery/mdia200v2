@@ -43,11 +43,11 @@ I designed this course for you to:
 
 1. Build a vocabulary for understanding media. This means you'll develop a language for attending to the particulars of audio, images, text, video, and interfaces. 
 2. Learn a variety of techniques for engaging media today. This means we'll not only discuss but also practice different approaches to examining and experiencing audio, images, text, video, and interfaces in the 21st century. 
-3. Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made and interpreted. 
-4. Respond regularly to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
-5. Reflect on your learning and communicate its applications in the study and production of media. This reflection will assume the form of a portfolio, which will be your final project. 
+3. Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made,interpreted, and circulated. 
+4. Respond regularly and actively to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
+5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
 
-I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production today. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach technical or professional practices related to media. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
+I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach technical or professional practices related to media. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
 
 # About Me 
 
