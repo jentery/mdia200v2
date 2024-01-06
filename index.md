@@ -127,3 +127,103 @@ I will give you time during class to draft responses to prompts in your workshee
 Here's the schedule for the term. It's subject to change. In fact, I'm 97.56% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
 
 *All materials are available via Brightspace. Please study them prior to the date they're assigned.* This way, we can make the most of our time together. 
+
+# Policies 
+
+Here are the policies for this course. Please let me know if anything is unclear, ignorant, or mistaken. I'll correct it. 
+
+### Prerequisites 
+
+Academic Writing Requirement satisfied. 
+
+### Media Studies Certificate 
+
+This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/humanities/media-studies/program/index.php). 
+  
+### Assessment and Feedback
+
+Two of the four Worksheets as well as the Portfolio are required to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
+
+All assignments should be submitted via Brightspace. I cannot accept Worksheets or the Portfolio via email. 
+
+I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
+
+Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term. 
+
+### Late Submissions and Extensions
+
+I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every Worksheet in this course. This means that I will not penalize you for submitting any Worksheet by Friday at 10am (one day after it's due via Brightpsace). A late penalty of 5 points per business day will apply after 24 hours. I do not consider weekends or holidays to be business days. 
+
+I will not accept Worksheets more than two weeks after they are due and cannot accept the Portfolio more than a week after it is due.
+
+Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
+
+### Attendance and Participation
+
+There is no participation or attendance mark in this course; however, it is driven by class discussion and workshops, all of which are difficult to record or "capture." 
+
+I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. 
+
+*You do not need to provide me with documentation for an absence.*
+
+### Communications and Office Hours
+
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Monday, 11:30am - 12:30pm, in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
+
+I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
+
+### Learning Climate  
+
+The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. We are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/) and the [Tri-Faculty Code of Professional Behaviour](https://www.uvic.ca/services/advising/assets/docs/tri-fac-student-code-of-conduct.pdf). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
+
+### Academic Integrity  
+
+We are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/students/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student work. Violations of the integrity policy may result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism or AI in essays, exams, or any other assignments.
+
+I also recommend the [Libraries' plagiarism guide](https://www.uvic.ca/library/help/citation/plagiarism/) for learning more about academic integrity. You are of course always welcome to talk to me, too. 
+
+### Copyright 
+
+All course materials, including my slides, handouts, and lectures, are made available for educational purposes and the exclusive use of students in this course. The material is protected under copyright law even if it is not marked as such, and the syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+
+### Online Conduct 
+
+The University of Victoria is committed to promoting critical academic discourse while providing a respectful and supportive learning environment. All members of the university community have the right to this experience and the responsibility to help create such an environment. The University will not tolerate racism, sexualized violence, or any form of discrimination, bullying, or harassment. 
+
+Please be advised that, by logging into UVic's learning systems and interacting with online resources, you are engaging in a university activity. All interactions within this environment are subject to the university's expectations and policies. Any concerns about student conduct may be reviewed and responded to in accordance with the appropriate university policy. To report concerns about online student conduct, email [onlineconduct@uvic.ca](mailto:onlineconduct@uvic.ca).
+
+### Accessibility
+
+If you have a disability or health consideration that may require supports, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/accessible-learning/index.php) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate supports. I will never ask you to disclose a diagnosis, health consideration, or disability to me, and I know that access needs are social, cultural, and structural issues that aren't always addressed, or adequately addressed, by institutions such as the academy. 
+
+### Diversity, Equity, and Inclusion 
+
+I aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences at the intersections of race, ethnicity, gender, disability, sexuality, religion, power, and class. I want to be a resource for you, and I continue to learn about diversity, equity, and inclusion. If something is said in class (by anyone, including me) that makes you feel uncomfortable, then don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let me know, and I'll correct the documents provided to me. If your performance in the class is being impeded by your experiences outside of class, then keep me posted, and we'll make adjustments. I also welcome any suggestions to improve the quality of the course and its culture and materials, and I will make available mechanisms for anonymous feedback since you may prefer them.
+
+The following student groups may be relevant to your life as a student here at UVic: 
+
+* [The Native Students Union](https://www.uvicnsu.ca/) "is an organization run for and by Indigenous students at UVic. Since circa 1969, Indigenous students have been coming together to form community, support each other, advocate for Indigenous rights and wellbeing, and just exist together at the institution. The NSU runs events and programs, manages a student space with services, and advocates for Indigenous student success and wellness at UVic. The NSU Council leads the NSU in running and developing these services." 
+* [The Students of Colour Collective](https://soccollective.com/) "are a Collective of self-identified people of colour at the University of Victoria. Anyone identifying as BIPOC (Black, Indigenous and Person of Colour) is welcome to use our lounge and access our resources. SOCC exists to create space that fosters community building, and facilitates networking and gatherings for self-identified BIPOC folks. Our work centres on art, awareness, education, action, advocacy, and support. Every student of colour is welcome to get in touch and find out how to get involved."
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a post-secondary student advocacy group under the University of Victoria Students’ Union which promotes the full participation and inclusion of students who self-identify as having one or more disabilities at the University of Victoria. The SSD aims to support students who self-identify as having one or more disabilities; in particular, we support students to reduce barriers in the social, emotional, and educational domains of student life."
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is an inclusive space, focused on the needs of self-identified women, non-binary, trans and gender non-conforming folks to organize, network, access resources, attend workshops and events, study, and relax. Our space is open to both University of Victoria students and community members."
+* [UVic Pride Collective](https://pridecollective.ca/) "is committed to practicing decolonization, deinstitutionalization and radical acceptance. We believe that actualizing Queer liberation is possible through the relationships we nurture and build with each other. Community care is revolutionary, and our intersectional programming reflects that sentiment. The Collective is proudly run by a variety of UVSS staff, work study students, student volunteers, and more."
+
+*Language for this policy was drawn from the Harriet W. Sheridan Center for Teaching and Learning at Brown University and the work of Monica Linden in particular.*
+
+### Basic Needs 
+
+I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any supports to succeed. I'll do my best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to class meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+
+UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/student-wellness/wellness-resources/mental-health/) full of resources. They offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation, confidential assessment, and counselling services (individual and small group). Many of these programs are connected with [Student Wellness](https://www.uvic.ca/student-wellness/index.php), which you may contact by phone. 
+
+The [Student Affairs website](https://www.uvic.ca/studentaffairs/) lists several policies, knowledge of which may make your life at UVic safer and easier. Only some of them are directly related to this course, but they're still important.
+
+*Language for this policy was drawn from the work of Richard Pickard at UVic.*
+
+***
+
+Many thanks to everyone in [UVic's Praxis Studio](https://uvicpraxis.github.io/) for their support and suggestions for this course. Some material in this outline was informed by the Media Texthack Team's [Media Studies 101](https://opentextbc.ca/mediastudies101/) project. 
+
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
