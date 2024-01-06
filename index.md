@@ -167,7 +167,7 @@ Before class, please:
 
 *Note that Wednesday, January 24th is the last day for adding courses that begin in the second term.*
 
-## Th Jan 25: Semiotic Codes and Miscommunication 
+## Th Jan 25: Codes and Miscommunication 
 
 Before class, please: 
 
