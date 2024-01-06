@@ -27,9 +27,9 @@ Contents:
 
 As a researcher and instructor at the University of Victoria, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day. I'm a settler scholar at UVic, and I arrived here as an uninvited guest in July 2011. 
 
-The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I am still learning about the past and present of such injustices, and I will make no assumptions about you or your experiences. I invite ongoing dialogue about not only territory acknowledgements but also how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
+The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I am still learning about the past and present of those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about not only territory acknowledgements but also how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
 
-I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too. 
+I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too.
 
 # Calendar Description
 
