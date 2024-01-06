@@ -90,4 +90,38 @@ If this ends up being too much for the term, then we'll cut material or some of 
 * Point you to other assigned materials available online, 
 * Accept all your assignments (please don't submit anything to me by email),  
 * Comment on those assignments, and  
-* Mark those assignments according to rubrics I'll provide.    
+* Mark those assignments according to rubrics I'll provide.
+
+# Assignments
+
+There are no exams, quizzes, presentations, group projects, or participation marks in this course.
+
+I am asking you to complete five assignments this term. 
+
+1. **[Worksheet 1](https://jentery.github.io/mdia200v2/worksheet1.html)**: 20% of your final grade; covers material from Weeks 1-3 (due by Thursday, February 1st at 10am)
+2. **[Worksheet 2](https://jentery.github.io/mdia200v2/worksheet2.html)**: 20% of your final grade; covers material from Weeks 4-6 (due by Thursday, February 15th at 10am)
+3. **[Worksheet 3](https://jentery.github.io/mdia200v2/worksheet3.html)**: 20% of your final grade; covers material from Weeks 6-9 (due by Thursday, March 14th at 10am)
+4. **[Worksheet 4](https://jentery.github.io/mdia200v2/worksheet4.html)**: 15% of your final grade; covers material from Weeks 10-12 (due by Thursday, April 4th at 10am)
+5. **[Portfolio](https://jentery.github.io/mdia200v2/portfolio.html)**: 25% of your final grade (due by Thursday, April 18th at 10am) 
+
+*Worksheets*: The worksheets will ask you to use particular Media Studies techniques to apply what you're learning in class. I will distribute each worksheet about three or four weeks before it's due via Brightspace. A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your responses to those prompts.
+
+*Portfolio*: You'll conclude the course by producing a portfolio that documents what you learned in this course, reflects on it, and communicates its significance to other students at UVic.  
+
+*Brightspace*: Please use Brightspace to submit all your work. You need not purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email. Thank you for understanding.  
+
+*Feedback*: I will provide brief and focused feedback on worksheets according to their rubrics. Please email me or schedule an appointment (F2F or Zoom) to discuss any feedback I provide. Please also note that I'm teaching this course while parenting, serving on multiple committees, conducting research, writing a book, and directing UVic's Media Studies program. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+
+# Workload
+
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+
+I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+
+I will give you time during class to draft some responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
+
+# Schedule
+
+Here's the schedule for the term. It's subject to change. In fact, I'm 97.56% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
+
+*All materials are available via Brightspace. Please study them by the date they're assigned.* This way, we can make the most of our time together.  
