@@ -15,7 +15,7 @@ Contents:
 
 * [Territory Acknowledgement](#territory-acknowledgement)  
 * [Calendar Description](#calendar-description)
-* [Learning Goals](#goals)  
+* [Goals](#goals)  
 * [About Me](#about-me)  
 * [Materials](#materials)   
 * [Assignments](#assignments) 
