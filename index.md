@@ -14,7 +14,7 @@ View this document in [PDF](mdia200Spring2024syllabus.pdf) (dated 6 January 2024
 Contents: 
 
 * [Territory Acknowledgement](#territory-acknowledgement)  
-* [Calendar Description](#calendar-description)
+* [Description](#description)
 * [Goals](#goals)  
 * [About Me](#about-me)  
 * [Materials](#materials)   
@@ -31,7 +31,7 @@ The fact that we're gathering at UVic to study media is a product of colonizatio
 
 I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too.
 
-# Calendar Description
+# Description
 
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people’s relation to culture." See [MDIA200 - Media in the 21st Century](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&bcGroup=Media%20Studies%20(MDIA)&bcItemType=courses) in UVic's academic calendar. 
 
@@ -58,3 +58,34 @@ My name is Jentery Sayers (he / him). I skip a syllable and say it in two: "JEN-
 I spend 11.67% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I'm the acting director of Media Studies. I like to play TTRPGs, drums, guitar, and soccer in my spare time. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. I do my best to maintain an [online portfolio](https://jntry.work/) of my work. 
+
+# Materials 
+
+You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including Brightspace), a camera, and a microphone. Most of the primary sources are online. I will provide you with PDF copies of them when they aren't. 
+
+We'll study the following primary sources this term: 
+
+* The [Instagram Egg](https://www.instagram.com/world_record_egg/) (2019), by world_record_egg 
+* The Flash animation, [*THE M00D 0F THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007), by Young-Hae Chang Heavy Industries
+* The browser game, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014), by Marina Kittaka 
+* The dramatic podcast, [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) (2016), by  Janina Matthewson, Jeffrey Cranor, Mary Epworth, and Night Vale
+* The browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel
+* The comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine  
+* The stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett 
+* The video game, [*Umurangi Generation*](https://www.umurangigeneration.com/) (2020), by Origame Digital and Naphtali Faulkner
+* The audio story, ["Being Siri"](https://www.kcrw.com/culture/shows/unfictional/you-want-a-piece-of-me/being-siri) (2017), by Erin Anderson
+* The photo story, ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/) (2023), by Steph Kwetásel'wet Wood
+* A [Twitch](https://www.twitch.tv/) livestream of your choice
+
+I will provide handouts and slides each week to define key terms in Media Studies, enhance your learning, and point you to additional resources.  
+
+I'll use the course Brightspace to: 
+
+* Circulate a class announcement each Wednesday to help you plan for what's next,  
+* Provide you with copies of my slides, handouts, and assigned materials, 
+* Point you to other assigned materials available online, 
+* Accept all your assignments (please don't submit anything to me by email),  
+* Comment on those assignments, and  
+* Mark those assignments according to rubrics I'll provide.    
+
+If this ends up being too much for the term, then we'll cut material or some of it will become optional.
