@@ -27,7 +27,9 @@ Contents:
 
 As a researcher and instructor at the University of Victoria, I acknowledge and respect the lək̓ʷəŋən peoples on whose traditional territory the University stands, and the Songhees, Esquimalt, and <u>W</u>SÁNEĆ peoples whose historical relationships with the land continue to this day. I'm a settler scholar at UVic, and I arrived here as an uninvited guest in July 2011. 
 
-The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I am still learning about the past and present of those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about not only territory acknowledgements but also how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
+In this [video](https://www.youtube.com/watch?v=jAgS8kOsjYY), Songhees Elder Elmer George welcomes visitors to the traditional lands of the Songhees, Esquimalt, and <u>W</u>SÁNEĆ people in lək̓ʷəŋən and English. The acknowledgement in this video was prepared in consultation with local Indigenous communities.
+
+The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I continue to learn about those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about not only territory acknowledgements but also how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
 
 I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too.
 
@@ -59,9 +61,9 @@ You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clea
 
 # Materials 
 
-You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including Brightspace), a camera, and a microphone. Most of the primary sources are online. I will provide you with PDF copies of them when they aren't. 
+You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including Brightspace), a camera, and a microphone. Most of the primary sources are publicly available online. I will provide you with PDF copies of them when they are not. 
 
-I will also provide handouts and slides each week to define key terms in Media Studies, enhance your learning, point you to additional resources, and help you to complete assignments. 
+I will also provide you with handouts and slides each week to define key terms in Media Studies, enhance your learning, point you to additional resources, and help you to complete assignments. 
 
 *Primary Sources*: We'll study the following primary sources this term: 
 
@@ -90,7 +92,7 @@ If this ends up being too much for the term, then we'll cut material or some of 
 * Point you to other assigned materials available online, 
 * Accept all your assignments (please don't submit anything to me by email),  
 * Comment on those assignments, and  
-* Mark those assignments according to rubrics I'll provide.
+* Mark those assignments according to rubrics I'll provide.    
 
 # Assignments
 
@@ -114,14 +116,14 @@ I am asking you to complete five assignments this term.
 
 # Workload
 
-The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I've planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
 
 I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
 
-I will give you time during class to draft some responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
+I will give you time during class to draft responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
 
 # Schedule
 
 Here's the schedule for the term. It's subject to change. In fact, I'm 97.56% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
 
-*All materials are available via Brightspace. Please study them by the date they're assigned.* This way, we can make the most of our time together.  
+*All materials are available via Brightspace. Please study them prior to the date they're assigned.* This way, we can make the most of our time together. 
