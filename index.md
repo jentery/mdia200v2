@@ -77,7 +77,9 @@ I will also provide handouts and slides each week to define key terms in Media S
 * The photo story, ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/) (2023), by Steph Kwetásel'wet Wood
 * A [Twitch](https://www.twitch.tv/) livestream of your choice
 
-*Handouts*: I will circulate handouts in Brightspace each week to help you prepare for each class session. They will include concise overviews of key themes and terms for the purposes of participating in class activities and completing assignments. 
+If this ends up being too much for the term, then we'll cut material or some of it will become optional.
+
+*Handouts*: I will circulate handouts in Brightspace each week to help you prepare for class sessions. They will include concise overviews of key themes and terms for the purposes of participating in class activities and completing assignments. 
 
 *Slide Decks*: I will create an HTML slide deck for most if not all class sessions. A link to the pertinent slide deck will be available in Brightspace immediately before class begins. This way, you can access the slides during and after class. 
  
@@ -89,6 +91,3 @@ I will also provide handouts and slides each week to define key terms in Media S
 * Accept all your assignments (please don't submit anything to me by email),  
 * Comment on those assignments, and  
 * Mark those assignments according to rubrics I'll provide.    
-
-If this ends up being too much for the term, then we'll cut material or some of it will become optional.
-
