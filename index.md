@@ -7,7 +7,7 @@ Taught by [Jentery Sayers](https://jntry.work/) (he / him)
 Office hours: M, 11:30am - 12:30pm, in CLE D331    
 [jentery@uvic.ca](mailto:jentery@uvic.ca)
 
-View this document in [PDF](mdia200Spring2024syllabus.pdf) (dated 6 January 2024). 
+View this document in [PDF](mdia200Spring2024syllabus.pdf) (dated 7 January 2024). 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
