@@ -1,4 +1,4 @@
-**Media Studies 200: An Introduction to Media Studies (DRAFT)**  
+**Media Studies 200: An Introduction to Media Studies**  
 Intended for 63 undergraduate students     
 Spring 2024 at the University of Victoria  
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  
@@ -29,9 +29,9 @@ As a researcher and instructor at the University of Victoria, I acknowledge and 
 
 In this [video](https://www.youtube.com/watch?v=jAgS8kOsjYY), Songhees Elder Elmer George welcomes visitors to the traditional lands of the Songhees, Esquimalt, and <u>W</u>SÁNEĆ people in lək̓ʷəŋən and English. The acknowledgement in this video was prepared in consultation with local Indigenous communities.
 
-The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I continue to learn about those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about not only territory acknowledgements but also how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
+The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I continue to learn about those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about territory acknowledgements as well as how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
 
-I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) as well as this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too.
+I've learned a lot about territory acknowledgements from the Native Students Union's [webpage](https://www.uvicnsu.ca/about/lands) and this August 2019 [episode](https://open.spotify.com/episode/76wRKpfhNDS08ehRvtETmR) of *U in the Ring*: "With Knowledge Comes Responsibility: Territory Acknowledgements," featuring Jeff Ganohalidoh Corntassel, Maggie Easton, Steven Farina, Robbie Lewis, Qwul'sih'yah'maht Robina Thomas, and Kolin Sutherland-Wilson. I welcome your recommendations, too.
 
 # Description
 
@@ -45,9 +45,9 @@ I designed this course for you to:
 
 1. Build a vocabulary for understanding media. This means you'll develop a language for attending to the particulars of audio, images, text, video, and interfaces. 
 2. Learn a variety of techniques for engaging media today. This means we'll not only discuss but also practice different approaches to examining and experiencing audio, images, text, video, and interfaces in the 21st century. 
-3. Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made,interpreted, and circulated. 
+3. Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made, interpreted, and circulated. 
 4. Respond regularly and actively to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
-5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will assume the form of a portfolio, which will be your final project in this course. 
+5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will take the form of a portfolio, which will be your final project in this course. 
 
 I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach technical or professional practices related to media. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
 
@@ -55,7 +55,7 @@ I will assume you've no experience in Media Studies, and I will focus on critica
 
 My name is Jentery Sayers (he / him). I skip a syllable and say it in two: "JEN-tree." You can call me Jentery, Doctor Sayers, or Professor Sayers. 
 
-I spend 11.67% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I'm the acting director of Media Studies. I like to play TTRPGs, drums, guitar, and soccer in my spare time. 
+I spend 11.67% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I'm the acting director of the Media Studies program. I like to play TTRPGs, drums, guitar, and soccer in my spare time. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. I do my best to maintain an [online portfolio](https://jntry.work/) of my work. 
 
@@ -63,7 +63,7 @@ You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clea
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including Brightspace), a camera, and a microphone. Most of the primary sources are publicly available online. I will provide you with PDF copies of them when they are not. 
 
-I will also provide you with handouts and slides each week to define key terms in Media Studies, enhance your learning, point you to additional resources, and help you to complete assignments. 
+I will also provide you with handouts and slides each week to define key terms in Media Studies, enhance your learning, point you to additional resources, and help you complete assignments. 
 
 *Primary Sources*: We'll study the following primary sources this term: 
 
@@ -79,15 +79,15 @@ I will also provide you with handouts and slides each week to define key terms i
 * The photo story, ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/) (2023), by Steph Kwetásel'wet Wood
 * A [Twitch](https://www.twitch.tv/) livestream of your choice
 
-If this ends up being too much for the term, then we'll cut material or some of it will become optional.
+If this amount of content ends up being too much for the term, then we'll cut material or some of it will become optional.
 
-*Handouts*: I will circulate handouts in Brightspace each week to help you prepare for class sessions. They will include concise overviews of key themes and terms for the purposes of participating in class activities and completing assignments. 
+*Handouts*: I will circulate handouts in Brightspace each week. They will include concise overviews of key themes and terms to help you prepare for upcoming class sessions.
 
-*Slide Decks*: I will create an HTML slide deck for most if not all class sessions. A link to the pertinent slide deck will be available in Brightspace immediately before class begins. This way, you can access the slides during and after class. 
+*Slide Decks*: I will create an HTML slide deck for almost every class session. A link to the slide deck will be available in the pertinent Brightspace module immediately before class begins. This way, you can access my slides during and after class.
  
 *Brightspace*: I'll use the course Brightspace to: 
 
-* Circulate a class announcement each Wednesday to help you plan for what's next,  
+* Circulate a class announcement each *Wednesday* to help you plan for what's next,  
 * Provide you with copies of my slides, handouts, and assigned materials, 
 * Point you to other assigned materials available online, 
 * Accept all your assignments (please don't submit anything to me by email),  
@@ -118,7 +118,7 @@ I am asking you to complete five assignments this term.
 
 The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I planned for the maximum in advance, under the assumption that we won't get to everything. And that's totally fine.
 
-I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your own familiarity with the work and materials involved.
+I suggest dedicating *3 to 5 hours of study and practice* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your familiarity with the work and materials involved.
 
 I will give you time during class to draft responses to prompts in your worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
 
@@ -126,13 +126,13 @@ I will give you time during class to draft responses to prompts in your workshee
 
 Here's the schedule for the term. It's subject to change. In fact, I'm 97.56% certain there will be changes. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
 
-*All materials are available via Brightspace. Please study them prior to the date they're assigned.* This way, we can make the most of our time together. 
+*All materials for this course are available via Brightspace. Please study them before the date they're assigned.* This way, we can make the most of our time together. 
 
-If you miss a class session, or you simply want a review, then I recommend checking Brightspace to view the slide deck for that session and touching base with a peer to see if they're willing to share their notes for the day. 
+If you miss a class session, or you simply want a review, then I recommend checking Brightspace to view the slide deck for that session and touching base with a peer to see if they're willing to share their notes for that day. 
 
 ## M Jan 8: Hello! 
 
-We'll introduce ourselves, I'll provide an overview of the course, and we'll briefly discuss the relationship between media and mediation.  
+We'll introduce ourselves, and I'll provide an overview of the course.
 
 ## Th Jan 11: The Content Industry 
 
@@ -156,7 +156,7 @@ Before class, please:
 1. Read the handouts titled, "Means of Communication," "Levels of Communication," and "Forms of Communication." 
 2. Email me if you've having any trouble accessing the slide decks for class sessions. 
 
-*Note that Sunday, January 21st is the last day for a 100% reduction of second term fees for standard courses.*
+*Note that Sunday, January 21st is the last day for a 100% reduction of second-term fees for standard courses.*
 
 ## M Jan 22: Models of Communication 
 
@@ -175,8 +175,6 @@ Before class, please:
 2. Read the prompt for [Worksheet 2](https://jentery.github.io/mdia200v2/worksheet2.html). 
 3. Note that today is the last session covered by Worksheet 1, which is due by Thursday, February 1st at 10am.
 
-*Also note that Wednesday, January 31st is the last day for paying second term fees without penalty.*
-
 ## M Jan 29: Images 
 
 Before class, please: 
@@ -184,6 +182,8 @@ Before class, please:
 1. Read Adrian Tomine's "Translated, From the Japanese" (PDF in Brightspace) and the handout for it. Content warning: conflict between parents, bad dad, and themes of assimilation and leaving home.
 2. Read the handout titled, "Images." 
 3. Email me any questions or concerns you have about Worksheet 2. 
+
+*Note that Wednesday, January 31st is the last day for paying second-term fees without penalty.*
 
 ## Th Feb 1: Text 
 
@@ -227,7 +227,7 @@ Before class, please:
 
 ## M Feb 19 and Th Feb 22: Reading Break 
 
-Monday, February 19th through Friday, February 23th is Reading Break for all faculties.
+Monday, February 19th through Friday, February 23rd is Reading Break for all faculties.
 
 ## M Feb 26: Ownership, Amplification, and Accountability 
 
@@ -280,7 +280,7 @@ Before class, please:
 
 Before class, please: 
 
-1. Read Steph Kwetásel'wet Wood's ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/). 
+1. Read Steph Kwetásel'wet Wood's ["Fighting for Food Sovereignty Amid Worsening Wildfires."](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/)
 2. Read the handouts titled, "Discourse" and "Persuasion." 
 
 ## Th Mar 21: Affect and Experience 
@@ -294,7 +294,7 @@ Before class, please:
 
 Before class, please: 
 
-1. Listen to Erin Anderson's ["Being Siri"](https://www.kcrw.com/culture/shows/unfictional/you-want-a-piece-of-me/being-siri).
+1. Listen to Erin Anderson's ["Being Siri."](https://www.kcrw.com/culture/shows/unfictional/you-want-a-piece-of-me/being-siri)
 2. Read the handout titled, "Preservation." 
 3. Note that today is the last session covered by Worksheet 4, which is due by Thursday, April 4th at 10am. 
 
@@ -357,7 +357,7 @@ Please email me if you need an extension for any assignment, and we can discuss 
 
 ### Attendance and Participation
 
-There is no participation or attendance mark in this course; however, it is driven by class discussion and workshops, all of which are difficult to record or "capture." 
+There is no participation or attendance mark in this course; however, it is driven by class discussion and workshops, which are difficult to record or "capture." 
 
 I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. 
 
