@@ -25,23 +25,23 @@ This open-book worksheet contains *five* prompts totalling 100 points. Each resp
 
 ## The Five Prompts 
 
-\1.\ The [Instagram Egg](https://www.instagram.com/world_record_egg/) is part of the so-called "content industry," where content circulates to fill people's feeds and increase their time on device. Let's *trace* that circulation and *test* that assertion.  
+1\. The [Instagram Egg](https://www.instagram.com/world_record_egg/) is part of the so-called "content industry," where content circulates to fill people's feeds and increase their time on device. Let's *trace* that circulation and *test* that assertion.  
 
 Identify three places where the Instagram Egg appeared online and sparked meaningful engagement. Then use no more than 250 words to tell me what's meaningful about each engagement. You're welcome to use point form and don't forget to cite all three locations, including their URLs. 
 
-\2.\ According to a [2023 report](https://webaim.org/projects/million/#alttext) by WebAIM, "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write alt text*. 
+2\. According to a [2023 report](https://webaim.org/projects/million/#alttext) by WebAIM, "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write alt text*. 
 
 Visit a home page that's familiar to you, find an image on that page that's missing alternative text, and then write alt text for that image. Once you're done, use no more than 150 words to explain how writing alt text is an act of community-building. Be sure to cite the home page and include your alt text in your response. 
 
-\3.\ The differences between one-to-one and one-to-many communications appear obvious at first but can in fact be subtle. After all, the particulars of tone, delivery, pacing, and content matter in messaging. Let's *test* that idea through *repetition*. 
+3\. The differences between one-to-one and one-to-many communications appear obvious at first but can in fact be subtle. After all, the particulars of tone, delivery, pacing, and content matter in messaging. Let's *test* that idea through *repetition*. 
 
 Create 30-60 seconds of audio to verbally communicate two distinct messages using the same content: first to a friend at UVic via a hypothetical voice message (one-to-one) and second to all UVic students via a hypothetical CFUV 101.9 FM transmission (one-to-many). Then use no more than 150 words to explain the differences between your two messages. Don't forget to attach or embed your audio file.  
 
-\4.\ Models of communication, especially the transmission model, are preoccupied with clarity, efficiency, and effectiveness, but noise abounds in everyday life. Perhaps it even constitutes everyday life. Let's *test* this idea by *making some noise*. 
+4\. Models of communication, especially the transmission model, are preoccupied with clarity, efficiency, and effectiveness, but noise abounds in everyday life. Perhaps it even constitutes everyday life. Let's *test* this idea by *making some noise*. 
 
 Create 30-90 seconds of video to demonstrate three types of "noise" in everyday communication. Then use no more than 250 words to explain how noise evinces the labour of communication. Don't forget to attach or embed your video file. 
 
-\5.\ Whether you're in the loop often determines whether you got the message. If you know, you know. Let's *test* this idea by *speaking in code* through text or image. 
+5\. Whether you're in the loop often determines whether you got the message. If you know, you know. Let's *test* this idea by *speaking in code* through text or image. 
 
 Use two cultural codes I probably won't understand and then explain them to me in no more than 150 words. Don't forget to attach or embed your images if you made some. 
 
