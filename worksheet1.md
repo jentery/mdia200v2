@@ -13,7 +13,7 @@ This worksheet covers material from Weeks 1, 2, and 3 of MDIA 200. Your response
 
 The worksheet is *open-book*, meaning you are allowed to use assigned primary sources, handouts, the course website, my slides, your notes, the library, and the internet to address the prompts.
 
-*Please ensure you cite your source material.* 
+*Please cite your source material.* 
 
 ## Download the Worksheet 
 
