@@ -154,7 +154,7 @@ Before class, please:
 Before class, please: 
 
 1. Read the handouts titled, "Means of Communication," "Levels of Communication," and "Forms of Communication." 
-2. Email me if you've having any trouble accessing the slide decks for class sessions. 
+2. Email me if you're having any trouble accessing the slide decks for class sessions. 
 
 *Note that Sunday, January 21st is the last day for a 100% reduction of second-term fees for standard courses.*
 
