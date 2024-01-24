@@ -84,4 +84,4 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 A response to Worksheet 1 is due by 10am on Thursday, February 1st.
 
-I will deduct five points for every business day (excluding holidays and weekends) that I receive Worksheet 1 after Friday, February 2nd at 10am. I will close the submission portal at 10am on Thursday, February 15th and cannot accept any submissions after the portal is closed. Thank you for understanding.
+I will deduct five points for every business day (excluding holidays and weekends) that I receive Worksheet 1 after Monday, February 5th at 10am. I will close the submission portal at 10am on Thursday, February 15th and cannot accept any submissions after the portal is closed. Thank you for understanding.
