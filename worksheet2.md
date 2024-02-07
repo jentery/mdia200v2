@@ -39,7 +39,7 @@ Watch [this video](https://www.youtube.com/watch?v=WFVLWo5B81w) about Joanna Fan
 
 4\. Video combines image and audio, yet it may juxtapose them, too. Let's *test* this idea by *masking* them to analyze an animation. (Michel Chion proposed the masking method in *Audio-Vision: Sound on Screen*.)
 
-Engage minutes 14:00 - 16:35 of *Biidaaban* four times and take notes as you do. First, watch them as is. Second, watch them with the sound off. Third, listen to them with the screen off. And finally, re-watch them as is. Then use no more than 250 words, including terminology from the "Video" handout, to describe a "negative image" and "negative sound" evoked by the animation. The negative image asks, "What do you see of what you hear?" While the negative sound asks, "What do you hear of what you see?" (Chion 192).   
+Engage minutes 14:00 - 16:35 of [*Biidaaban*](https://www.spottedfawnproductions.com/biidaaban/) four times and take notes as you do. First, watch them as is. Second, watch them with the sound off. Third, listen to them with the screen off. And finally, re-watch them as is. Then use no more than 250 words, including terminology from the "Video" handout, to describe a "negative image" and "negative sound" evoked by the animation. The negative image asks, "What do you see of what you hear?" While the negative sound asks, "What do you hear of what you see?" (Chion 192).   
 
 5\. An interface not only transforms input into output; it also functions as a point where two worlds meet. You could even say it joins or articulates two worlds. Let's *test* this idea by *converting* a photograph into a screen cap of a hypothetical video game. 
 
