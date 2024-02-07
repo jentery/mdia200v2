@@ -9,7 +9,7 @@ Office hours: Th, 11:30am - 12:30pm, in CLE D331
 
 # Worksheet 2
 
-This worksheet covers material from Weeks 4, 5, and 6 of MDIA 200. Your response is due via Brightspace by Thursday, February 15th at 10am. (Note that there's grace period. See details under "When to Submit It.")  
+This worksheet covers material from Weeks 4, 5, and 6 of MDIA 200. Your response is due via Brightspace by Thursday, February 15th at 10am. (Note that there's a grace period. See details under "When to Submit It.")  
 
 The worksheet is *open-book*, meaning you are allowed to use assigned primary sources, handouts, the course website, my slides, your notes, the library, and the internet to address the prompts.
 
@@ -21,7 +21,7 @@ Please [download the worksheet](mdia200v2Worksheet2.docx) (DOCX format) to compl
 
 ## Format
 
-This open-book worksheet contains *five* prompts totaling 100 points. Each response is worth 20 points. You are welcome to attach media (audio, image, or video files) to your response when prompted.  
+This open-book worksheet contains *five* prompts totalling 100 points. Each response is worth 20 points. You are welcome to attach media (audio, image, or video files) to your response when prompted.  
 
 ## The Five Prompts 
 
