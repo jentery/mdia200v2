@@ -27,12 +27,12 @@ Your response is worth 100 points and 25% of your final grade.
 Tell someone you know what you learned in this course by sharing samples of your work, demonstrating your knowledge of media, and communicating your primary interests in Media Studies. 
 
 * *Identify someone* you know who is interested in what you're learning. This person cannot be me. They could be a friend, family member, partner, (potential) employer, UVic student or instructor, elder, (potential) collaborator . . . The choice is yours, as long as you compose for *one* interlocutor. Indeed, your response to this prompt is an interpersonal communication. 
-* *Select four answers* you composed in response to prompts from Worksheets 1-4. You needn't select one answer from each of the four worksheets; however, your four selections should address the course's three main topics of study: communication, media, and critical approaches to media and communication. I recommend selecting four answers that taught you a lot about yourself *and* the course topics.
-* *Share your work* by including samples of all four answers. Include the work itself and point your interlocutor to aspects of it. Showcase what you did and what you learned. Use your work to spark conversation with them. You might even ask them questions.  
+* *Select four answers* you composed in response to prompts from Worksheets 1-4. You needn't select one answer from each of the four worksheets; however, your four selections should address the course's three main topics of study: communication, media, and critical approaches to media and communication. I recommend selecting four answers that taught you a lot about yourself *and* the course topics. I also recommend demonstrating a range of learning (over time, across topics, through various media). 
+* *Share your work* by including samples of all four answers. Include parts of the answers themselves and point your interlocutor to aspects of them. Showcase what you did and what you learned. Use your work to spark conversation with your interlocutor. You might even ask them questions.  
 * *Demonstrate your knowledge* of media by using terminology, techniques, and practices from MDIA 200 in ways your interlocutor would understand. Meet them where they are and decode things for them if need be. 
 * *Communicate your primary interests* in Media Studies by selecting *one* critical approach from [Appendix A](#appendix-a) that appeals most to you. Explain that approach and its appeal but also convey their relevance to work you might do in the future. Give your interlocutor a palpable sense of how and where you could apply what you learned in MDIA 200. 
 
-Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that would engage your interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of dialogue rather than an advertisement for MDIA. 
+Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that would engage your interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of a dialogue rather than an advertisement for MDIA 200. 
 
 You needn't name or describe your interlocutor; however, I should be able to infer *who they are to you* based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
 
@@ -50,11 +50,13 @@ The degree to which your response:
 * Synthesizes what you learned.
 * Demonstrates an awareness of your interlocutor and how you're communicating with them. 
 * Demonstrates and communicates how you might apply what you learned. 
-* Makes compelling use of concrete examples across a range of what's available. 
+* Makes compelling use of concrete examples across a range of what's available (over time, across topics, through various media). 
 
 ## What to Submit 
 
 Please submit a DOCX, ODT, PAGES, PDF, MP4, or MOV file containing your response. 
+
+Do not use a platform other than Brightspace to submit, store, or share your materials. 
 
 ## When to Submit It
 
