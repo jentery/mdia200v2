@@ -17,24 +17,24 @@ The portfolio is *open-book*, meaning you are allowed to use assigned primary so
 
 This open-book assignment contains *one* prompt, and you may respond to it in *one* of two ways: 
 
-* **Option 1**: text plus images, using no more than 850 words 
+* **Option 1**: text plus images and/or audio, using no more than 1000 words 
 * **Option 2**: 3-5 minutes of video 
 
-Your response is worth 100 points. 
+Your response is worth 100 points and 25% of your final grade. 
 
 ## The Prompt 
 
 Tell someone you know what you learned in this course by sharing samples of your work, demonstrating your knowledge of media, and communicating your primary interests in Media Studies. 
 
 * *Identify someone* you know who is interested in what you're learning. This person cannot be me. They could be a friend, family member, partner, (potential) employer, UVic student or instructor, elder, (potential) collaborator . . . The choice is yours, as long as you compose for *one* interlocutor. Indeed, this is an interpersonal communication. 
-* *Select four responses* you composed for Worksheets 1-4 in this course. You needn't select one response from each of the four worksheets; however, your four selections should address the course's three key areas of study: communication, media, and critical approaches to media and communication. I recommend selecting four responses that taught you a lot about yourself, media, communication, and culture. 
+* *Select four responses* you composed for Worksheets 1-4 in this course. You needn't select one response from each of the four worksheets; however, your four selections should address the course's three main topics of study: communication, media, and critical approaches to media and communication. I recommend selecting four responses that taught you a lot about yourself *and* the course topics.
 * *Share your work* by including samples of all four responses. Include the work itself and point your interlocutor to aspects of it. Showcase what you did and what you learned. Use your work to spark conversation with them. You might even ask them questions.  
 * *Demonstrate your knowledge* of media by using terminology, techniques, and practices from MDIA 200 in ways your interlocutor would understand. Meet them where they are and decode things for them if need be. 
-* *Communicate your primary interests* in Media Studies by selecting *one* critical approach from Appendix A (see below) that appeals most to you. Explain that approach and its appeal and convey their relevance to work you might do in the future. Give your interlocutor a palpable sense of how and where you could apply what you learned in MDIA 200. 
+* *Communicate your primary interests* in Media Studies by selecting *one* critical approach from [Appendix A](#appendix-a) that appeals most to you. Explain that approach and its appeal but also convey their relevance to work you might do in the future. Give your interlocutor a palpable sense of how and where you could apply what you learned in MDIA 200. 
 
 Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that would engage your interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of dialogue rather than an advertisement for MDIA. 
 
-You needn't name or describe *your interlocutor*; however, I should be able to infer who they are to you based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
+You needn't name or describe your interlocutor; however, I should be able to infer *who they are to you* based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
 
 ## Assessment 
 
@@ -49,7 +49,7 @@ The degree to which your response:
 * Communicates what you learned from media analysis.  
 * Synthesizes what you learned.
 * Demonstrates an awareness of your interlocutor and how you're communicating with them. 
-* Demonstrates and communicates how you might apply what you learned in the future. 
+* Demonstrates and communicates how you might apply what you learned. 
 * Makes compelling use of concrete examples across a range of what's available. 
 
 ## What to Submit 
@@ -58,11 +58,11 @@ Please submit a DOCX, ODT, PAGES, PDF, MP4, or MOV file containing your response
 
 ## When to Submit It
 
-Your portfolio is due by 10am on Thursday, April 4th.
+Your portfolio is due by 10am on Thursday, April 18th. 
 
 I will deduct five points for every business day (excluding holidays and weekends) that I receive your Portfolio after Thursday, April 18th at 5pm. I will close this submission portal at 10am on Thursday, April 25th and cannot accept any submissions after the portal is closed. Thank you for understanding.
 
-## Appendix 1 
+## Appendix A 
 
 Approaches to Media Studies that we engaged in this course: 
 
